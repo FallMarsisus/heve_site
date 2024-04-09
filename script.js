@@ -17,11 +17,11 @@ function _apply() {
   body[0].style.visibility = "visible";
   let title_container = document.getElementById("title-container");
   let font_size = 5;
-  //let bg = document.getElementById("background");
-  /*if (window.innerWidth <= 640) {
+  let bg = document.getElementById("background");
+  if (window.innerWidth <= 640) {
     bg.src =
-      "https://cdn.glitch.global/e5414ed1-8c63-41fa-9343-9c30e2e12e71/Heve_tel.png?v=1711793950637";
-  } else {
+      "https://cdn.glitch.global/e5414ed1-8c63-41fa-9343-9c30e2e12e71/Design_HEVE.jpg?v=1712693957752";
+  } /*else {
     bg.src =
       "https://cdn.glitch.global/e5414ed1-8c63-41fa-9343-9c30e2e12e71/Heve_ordi.png?v=1711793957612";
   }*/
