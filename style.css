@@ -281,10 +281,21 @@ body {
     left: 2vw;
     transform: translate(0, -50%);
   }
+  
+
+  #navbar {
+    position: absolute;
+    left: 48vw;
+    transform: translate(-50%, 20%);
+    top: 2vh;
+  }
 
   #navbar ul {
-    transform: translate(0, 50%);
-    display: block;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    text-align: center;
     list-style-type: none;
   }
 
