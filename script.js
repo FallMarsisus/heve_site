@@ -18,7 +18,7 @@ function _apply() {
   let title_container = document.getElementById("title-container");
   let font_size = 5;
   let bg = document.getElementById("background");
-  if (window.innerWidth <= 640) {
+  /*if (window.innerWidth <= 640) {
     bg.src =
       "https://cdn.glitch.global/e5414ed1-8c63-41fa-9343-9c30e2e12e71/Design_HEVE.jpg?v=1712693957752";
   } /*else {
