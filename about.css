@@ -1,0 +1,16 @@
+h1 {
+  padding-left: 10vw;
+}
+
+img {
+  width: 20vmin;
+  justify-content:center;
+}
+
+p {
+  padding-left: 10vw;
+  padding-top:10vw;
+  font-size: 25px;
+  text-align:justify;
+  padding-right: 10vw;
+}
